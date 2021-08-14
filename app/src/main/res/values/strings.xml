@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM Coroutine Example</string>
+    <string name="back">Back</string>
+    <string name="post_list">Post List</string>
+    <string name="post_detail">Detail</string>
+    <string name="more">more…</string>
+    <string name="less">less…</string>
+</resources>
