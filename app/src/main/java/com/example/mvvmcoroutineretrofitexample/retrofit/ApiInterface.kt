@@ -1,8 +1,6 @@
 package com.example.mvvmcoroutineretrofitexample.retrofit
 
 import com.example.mvvmcoroutineretrofitexample.model.Posts
-import com.google.gson.JsonArray
-import com.google.gson.JsonObject
 import retrofit2.http.GET
 import retrofit2.http.Path
 
