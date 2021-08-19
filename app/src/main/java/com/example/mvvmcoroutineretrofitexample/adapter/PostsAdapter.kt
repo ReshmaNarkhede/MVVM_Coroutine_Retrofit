@@ -23,7 +23,6 @@ class PostsAdapter(private val context:Context,private val lists: List<Posts>, p
     }
 
     override fun onBindViewHolder(viewHolder: ViewHolder, position: Int) {
-
         viewHolder.bindView(lists[position],itemClickListener)
     }
 
